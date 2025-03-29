@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sardorbek Otaboyev
+# Hi there 👋, I'm Otaboyev Sardorbek
 
 ## About Me
 

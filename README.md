@@ -8,7 +8,7 @@ I'm a passionate developer with a strong interest in web development and data sc
 - 🌱 I’m currently learning advanced machine learning techniques.
 - 👯 I’m looking to collaborate on interesting web development projects.
 - 💬 Ask me about JavaScript, Python, and data analysis.
-- 📫 How to reach me: [otaboyevsardorbek295@gmail.com](mailto:otaboyevsardorbek1@gmail.com)
+- 📫 How to reach me: [otaboyevsardorbek1@gmail.com](mailto:otaboyevsardorbek295@gmail.com)
 - ⚡ Fun fact: I love playing chess and solving puzzles.
 
 ## GitHub Stats

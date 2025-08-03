@@ -19,7 +19,7 @@ I'm a passionate and curious developer from Uzbekistan 🇺🇿, focused on buil
 
 ## 🏆 GitHub Profile Trophy
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=otaboyevsardorbek1&theme=radical&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=otaboyevsardorbek1&theme=radical&margin-w=15&margin-h=15&no-frame=true)](https://github-profile-trophy.vercel.app/?username=otaboyevsardorbek1&theme=radical&margin-w=15&margin-h=15&no-frame=true)
 
 ---
 
